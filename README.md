@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Aadesh Kumar
 
 🚀 **About Me:**  
-- 💻 Software Engineer, Competitive Programmer, Gamer, Git blamer
+- 💻 Software Engineer, Competitive Programmer, Git blamer
 - 🛠️ Experienced in **Vue, React** on the frontend and **Python, Golang** on the backend, with **AWS and Azure** in the **cloud**
 - 💾 Building scalable and efficient **Go microservices** with **gRPC, REST API, Kafka** with databases like **PostgreSQL and MongoDB**.
 
